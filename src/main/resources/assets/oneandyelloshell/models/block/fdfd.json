@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "oneandyelloshell:blocks/gfsd",
+    "up": "oneandyelloshell:blocks/gfsd",
+    "north": "oneandyelloshell:blocks/gfsd",
+    "east": "oneandyelloshell:blocks/gfsd",
+    "south": "oneandyelloshell:blocks/gfsd",
+    "west": "oneandyelloshell:blocks/gfsd",
+    "particle": "oneandyelloshell:blocks/gfsd"
+  }
+}
